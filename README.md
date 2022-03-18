@@ -11,3 +11,4 @@ For information on how to use it check the readme in the folder with the Python 
 How you use this programm is up to you and I will not be responsible for it. You may configure the programm freely, for the ffmpeg files act corresponding to their license.
 
 Have fun
+
